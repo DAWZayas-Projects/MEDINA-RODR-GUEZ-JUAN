@@ -1,4 +1,4 @@
-# Big Data con Python
+# Machine Learning y Big Data con Python
 
 ## Propósito del proyecto:
 El Big Data es cada vez más importante en todos los ambitos y posiblemente su tratamiento no haga más que aumentar en los próximos años ya que cada vez es más la información que los diferentes sensores y dispositivos son capaces de extraer del entrono, por este motivo también es cada vez más necesario el correcto tratamiento de estos datos cuya mera existencia no es de ninguna utilidad si no son filtrados, anallizados y puestos en valor.
